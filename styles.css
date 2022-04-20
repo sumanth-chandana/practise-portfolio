@@ -1,0 +1,47 @@
+html{
+    background-color: #66B032;
+}
+h1,h2,h3{
+    color: #092834;
+}
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #092834;
+    border-width: 5px;
+    width: 5%;
+}
+.cap{
+    color: #F0F7D4;
+}
+body{
+    color: #F0F7D4;
+}
+img{
+    height:"5px";
+    width:"5px";
+    border-radius: 50%;
+}
+/*for href page*/
+.contact{
+    text-align: left;
+    background-color: #F0F7D4;
+    border-radius: 20px;
+    color: #66B032;
+    margin: 20rem 1rem 20rem 1rem;
+    padding: 1rem 5rem 1rem 5rem;
+}
+.contact-me{
+    color: #66B032;
+}
+.queries{
+    text-align: center;
+    background-color: #F0F7D4;
+    border-radius: 20px;
+    color: #66B032;
+    margin: 20rem 1rem 20rem 1rem;
+    padding: 1rem 5rem 1rem 5rem;
+}
+footer{
+    white-space: pre-wrap;
+}
