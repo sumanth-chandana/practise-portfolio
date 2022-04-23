@@ -1,2 +1,2 @@
 # Personal-Portfolio
-My first Responsive WebPage
+My first WebPage
